@@ -34,4 +34,15 @@
     <string name="congratulations">Congratulations!</string>
     <string name="share">Share</string>
     <string name="sharing_not_available">Sharing Not Available</string>
+    <string name="title_profile">Profile</string>
+    <string name="nickname_title">Nick Name</string>
+    <string name="name_title">Name</string>
+    <string name="name_text">Zhi-Lun</string>
+    <string name="nickname_text">Sophie</string>
+    <string name="how_about_me_title">How about me</string>
+    <string name="how_about_me_text">Hi my name is Zhi-Lun Wang. I am a fresh graduate, I am a Media
+    Design Department student.</string>
+    <string name="next_match">Next Match</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
 </resources>
